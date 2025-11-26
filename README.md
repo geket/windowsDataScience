@@ -1,3 +1,7 @@
+# Instructions
+
+For the magnet URI bookmarklet, simply create a new bookmark and the URL as the `magnet_scrape_bookmarklet.js` file. This was tested to work on Chrome on ThePirateBay.org. 
+
 # Dependencies
 
 Before running `tryAgain.py`, you will need to install the pyautogui module using pip (pip install pyautogui), and you will also need to save two screenshots to the same directory as the script: move_copy.png, which shows the "Move" or "Copy" button in Windows Explorer, and try_again.png, which shows the "Try Again" button that appears when a move/copy operation fails.
