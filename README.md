@@ -1,6 +1,6 @@
 # Instructions
 
-For the magnet URI bookmarklet, simply create a new bookmark and the URL as the `magnet_scrape_bookmarklet.js` file. This was tested to work on Chrome on ThePirateBay.org. 
+For the magnet URI bookmarklet, simply create a new bookmark and the URL as the `magnet_scrape_bookmarklet.js` file. Make sure make an initial click on any magnet link to ensure that that you have the torrent client of your choosing handling these URLs, then "always allow this website to open links in client.exe". Finally, click the bookmarklet and hold spacebar, watch as the tab title counts up through the magnets on the page. This was tested to work on Chrome on ThePirateBay.org. 
 
 # Dependencies
 
